@@ -37,6 +37,7 @@ I enjoy solving complex business problems through **clean architecture**, **mode
   - C# (Basic), Python (Basic), SQL (Basic–Advanced)
   - JavaScript (Basic), React
 - 🤖 Active in problem-solving and competitive programming
+- <img src="leetcode.JPG" alt="LeetCode Stats" width="500"/>
 
 > _“Love solving real-world challenges through code and logic.”_
 
